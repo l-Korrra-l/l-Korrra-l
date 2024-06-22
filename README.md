@@ -1,9 +1,6 @@
 ### Hi there 👻
 - 👽 I’m currently learning everything
-- 🔭 I’m currently looking for work
 
-### You can contact me
-[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&)](https://vk.com/k0rrra)
 <!--[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&)](https://t.me/K0rrra)
 <!--
 **l-Korrra-l/l-Korrra-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
